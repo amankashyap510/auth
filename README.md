@@ -4,9 +4,10 @@
 #OVERVIEW--
 This project is a simple example to showcase the Autherization of Client-Server through JWT tokens. However I have passed the the secret key to decode the token in the Hardcode wat which is avoidable, secret key have to be put in .env(safe environment file).
 
+
 #For this project I have used the HTTP REST API.
 
-#Payload-WE USE PAYLOAD TO FETCH THE USER_DATA FROM THE DATABASE TO GET HIM THE ACCESS OF PROTECTED ROUTES.
+#Payload(BODY)THE USER_DATA IN JSON FORMAT
 ------IN MY PROJECT I HAVE MADE A DUMMY USER IN MODELS/dummyUser.js.
 
 #PREREQUISITE - HAVING NODE INSTALLED IN YOUR SYSTEM, NOW IN THE FOLDER STRUTURE YOU MUST HAVE SOME DEPENDENCIES -- EXPRESS, JSONWEBTOKEN, FS, NODEMON.
