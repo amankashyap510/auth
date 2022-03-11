@@ -2,7 +2,7 @@
 
 
 #OVERVIEW--
-This project is a simple example to showcase the Autherization of Client-Server through JWT tokens. However I have passed the the secret key to decode the token in the Hardcode wat which is avoidable, secret key have to be put in .env(safe environment file).
+This project is a simple example to showcase the Autherization of Client-Server through JWT tokens. However I have passed the the secret key to decode the token in the Hardcode way which is avoidable, secret key have to be put in .env(safe environment file).
 
 
 #For this project I have used the HTTP REST API.
